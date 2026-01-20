@@ -123,7 +123,7 @@ This project uses a simple **in-memory data store** for quick setup:
 
 ## 📸 Demo Video
 
-*(Add your screencast link here)*
+https://github.com/user-attachments/assets/08ac136f-fb32-48c5-b8ae-1046a5c822e6
 
 ---
 
