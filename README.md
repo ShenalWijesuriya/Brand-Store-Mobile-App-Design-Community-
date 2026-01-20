@@ -126,10 +126,3 @@ This project uses a simple **in-memory data store** for quick setup:
 https://github.com/user-attachments/assets/08ac136f-fb32-48c5-b8ae-1046a5c822e6
 
 ---
-
-If you want, I can also:
-
-✅ Make this more **portfolio-friendly**
-✅ Convert it to a **GitHub-style README**
-✅ Add **screenshots section**
-✅ Add a **project description for internships**
