@@ -79,13 +79,6 @@ To run the production version:
 npm start
 ```
 
-### Deploying on Vercel
-
-FashionHub is optimized for **Vercel**.
-Just import your GitHub repository into Vercel and it will automatically detect the Next.js setup.
-
----
-
 ## 💾 Data & Seeding
 
 This project uses a simple **in-memory data store** for quick setup:
